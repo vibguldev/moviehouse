@@ -1,0 +1,2 @@
+'https://movie-api-lyalzcwvbg.now.sh/paramount'
+'https://movie-api-lyalzcwvbg.now.sh/dreamworks'
